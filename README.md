@@ -46,4 +46,4 @@
 
 >> **Note:**
 >> 
->> Technically this tool should support copy the AMI from China AWS account to Worldwide account, howevery I didn't test it yest.
+>> Technically this tool should support copy the AMI from China AWS account to Worldwide account, howevery I didn't test it yet.
